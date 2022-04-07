@@ -11,7 +11,7 @@ try
 
     If (Test-Path $installed) { Remove-Item $installed }
 
-    $driverfile = "mps4-drivers.txt"
+    $driverfile = "printerz-drivers.txt"
     $driverfile_location = Split-Path -Path $MyInvocation.MyCommand.Path
     $driverfile_path = Join-Path -Path $driverfile_location -ChildPath $driverfile
 
