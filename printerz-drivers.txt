@@ -1,0 +1,21 @@
+# LINES STARTING WITH # WILL BE IGNORED
+#
+# FORMAT FOR PRINTERS
+# path to print queue [TAB] driver name (only used in log file but you'll want to know when something goes wrong)
+#
+\\printerz\Kitchen	"HP Universal Printing PCL6 (v7.0.1)"
+\\printerz\IT-Color	"Dell Color Laser 3110cn PCL6"
+\\printerz\IT_Bizhub	"KONICA MINOLTA Universal PCL"
+\\printerz\IT_BizHubPS	"KONICA MINOLTA C364SeriesPS"
+\\printerz\HR_BizHub	"KONICA MINOLTA C364SeriesPCL"
+\\printerz\Accounting_BizHub	"KONICA MINOLTA C360iSeriesPCL"
+\\printerz\Bizhubs_Macs	"KONICA MINOLTA C360iSeriesPS"
+\\printerz\HP_Upstairs	"HP Universal Printing PCL 6"
+\\printerz\Facilities	"HP Universal Printing PCL 5 (v5.9.0)"
+\\printerz\Office	"HP Universal Printing PS"
+\\printerz\Deans-Color	"Dell Color Laser 3110cn PS"
+\\printerz\Lab-Color	"Brother HL-L5100DN series"
+#
+# below printers need to be fixed on print server still
+#\\printerz\BizHubPCL	"KONICA MINOLTA Universal PCL"
+#\\printerz\IT_Bizhub	"KONICA MINOLTA C364SeriesPCL"
